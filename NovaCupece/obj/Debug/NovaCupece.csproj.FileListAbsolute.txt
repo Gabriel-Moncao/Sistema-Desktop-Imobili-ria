@@ -11,3 +11,6 @@ C:\Users\Gabriel.Eliete-PC.000\Documents\Fatec\Engenharia de software 3\Projeto 
 C:\Users\Gabriel.Eliete-PC.000\Documents\Fatec\Engenharia de software 3\Projeto eng. soft III\Sistema Desktop\NovaCupece\NovaCupece\obj\Debug\NovaCupece.home.resources
 C:\Users\Gabriel.Eliete-PC.000\Documents\Fatec\Engenharia de software 3\Projeto eng. soft III\Sistema Desktop\NovaCupece\NovaCupece\obj\Debug\NovaCupece.CadFunc.resources
 C:\Users\Gabriel.Eliete-PC.000\Documents\Fatec\Engenharia de software 3\Projeto eng. soft III\Sistema Desktop\NovaCupece\NovaCupece\obj\Debug\NovaCupece.Atendimento.resources
+C:\Users\Gabriel.Eliete-PC.000\Documents\Fatec\Engenharia de software 3\Projeto eng. soft III\Sistema Desktop\NovaCupece\NovaCupece\obj\Debug\NovaCupece.CadLocImov1.resources
+C:\Users\Gabriel.Eliete-PC.000\Documents\Fatec\Engenharia de software 3\Projeto eng. soft III\Sistema Desktop\NovaCupece\NovaCupece\obj\Debug\NovaCupece.cadLocImov2.resources
+C:\Users\Gabriel.Eliete-PC.000\Documents\Fatec\Engenharia de software 3\Projeto eng. soft III\Sistema Desktop\NovaCupece\NovaCupece\obj\Debug\NovaCupece.CadLocImov3.resources

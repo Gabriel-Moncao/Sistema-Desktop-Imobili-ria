@@ -58,6 +58,24 @@
     <Compile Include="CadFunc.Designer.cs">
       <DependentUpon>CadFunc.cs</DependentUpon>
     </Compile>
+    <Compile Include="CadLocImov1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadLocImov1.Designer.cs">
+      <DependentUpon>CadLocImov1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadLocImov2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadLocImov2.Designer.cs">
+      <DependentUpon>cadLocImov2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadLocImov3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadLocImov3.Designer.cs">
+      <DependentUpon>CadLocImov3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +95,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CadFunc.resx">
       <DependentUpon>CadFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadLocImov1.resx">
+      <DependentUpon>CadLocImov1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadLocImov2.resx">
+      <DependentUpon>cadLocImov2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadLocImov3.resx">
+      <DependentUpon>CadLocImov3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

@@ -33,5 +33,21 @@ namespace NovaCupece
             Atendimento atendimento = new Atendimento();
             atendimento.Visible = true;
         }
+
+        private void cadastrarToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            CadLocImov1 locador = new CadLocImov1();
+            locador.Visible = true;
+        }
+
+        private void home_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            
+        }
+
+        private void home_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            
+        }
     }
 }
