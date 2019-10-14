@@ -49,5 +49,16 @@ namespace NovaCupece
         {
             
         }
+
+        private void cadastrarToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            CadLocatario locatario = new CadLocatario();
+            locatario.Visible = true;
+        }
+
+        private void cadastrarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

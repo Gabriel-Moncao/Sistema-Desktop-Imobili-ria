@@ -15,6 +15,14 @@ namespace NovaCupece
         public CadLocatario()
         {
             InitializeComponent();
+            this.MaximizeBox = false;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CadLocatario2 locatario2 = new CadLocatario2();
+            locatario2.Visible = true;
+            this.Dispose();
         }
     }
 }

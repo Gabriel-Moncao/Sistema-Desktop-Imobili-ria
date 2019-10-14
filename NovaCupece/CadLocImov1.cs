@@ -22,7 +22,7 @@ namespace NovaCupece
         {
             cadLocImov2 imovelLoc = new cadLocImov2();
             imovelLoc.Visible = true;
-            this.Visible = false;
+            this.Dispose();
         }
 
         private void button2_Click(object sender, EventArgs e)

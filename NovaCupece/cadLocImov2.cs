@@ -27,7 +27,7 @@ namespace NovaCupece
         {
             CadLocImov3 fimCad = new CadLocImov3();
             fimCad.Visible = true;
-            this.Visible = false;
+            this.Dispose();
         }
     }
 }

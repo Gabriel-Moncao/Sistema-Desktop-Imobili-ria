@@ -58,6 +58,18 @@
     <Compile Include="CadFunc.Designer.cs">
       <DependentUpon>CadFunc.cs</DependentUpon>
     </Compile>
+    <Compile Include="CadLocatario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadLocatario.Designer.cs">
+      <DependentUpon>CadLocatario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadLocatario2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadLocatario2.Designer.cs">
+      <DependentUpon>CadLocatario2.cs</DependentUpon>
+    </Compile>
     <Compile Include="CadLocImov1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +100,12 @@
     <Compile Include="home.Designer.cs">
       <DependentUpon>home.cs</DependentUpon>
     </Compile>
+    <Compile Include="Locacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Locacao.Designer.cs">
+      <DependentUpon>Locacao.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Atendimento.resx">
@@ -95,6 +113,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CadFunc.resx">
       <DependentUpon>CadFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadLocatario.resx">
+      <DependentUpon>CadLocatario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadLocatario2.resx">
+      <DependentUpon>CadLocatario2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CadLocImov1.resx">
       <DependentUpon>CadLocImov1.cs</DependentUpon>
@@ -110,6 +134,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="home.resx">
       <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Locacao.resx">
+      <DependentUpon>Locacao.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
